@@ -20,13 +20,14 @@ public class BarkManager {
 	/*public boolean equals(Object bark) {
 		if(bark instanceof BarkManager) {
 			BarkManager otherBark = (BarkManager)bark;
-			if(this.amThanh.equalsIgnoreCase(otherBark.amThanh)) {
+			if(this.amThanh.equalsIgnoreCase(otherBark.amThanh)) {   ############ ::::: VÌ SAO LẠI DÙNG THAY VÌ DÙNG WHILE
 				return true;
 			}
 		}
 		return false;
 	}*/
 	
-
+	Giải thích phần được cho vào hoặc và chạy thử phần mềm, kiểm lỗi điều hướng
+	@@@@@@@@@@@@@@@@@@@@@@@
 
 }
