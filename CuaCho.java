@@ -1,7 +1,7 @@
 package baitap.tuan08;
 
 public class CuaCho implements Runnable {
-	private boolean trangThai;
+	private boolean trangThai;   :::::::: GIẢI THÍCH HÀM BOOLEAN VÀ CÁCH DÙNG
 	private String qlTiengSua;
 
 	public boolean isTrangThai() {
